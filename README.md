@@ -1,1 +1,1 @@
-# http-m2-alpha.ounass.ae
+# m2-alpha.ounass.ae
